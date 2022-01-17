@@ -1,3 +1,3 @@
-echo "bash_profile...."
-. $HOME/dotfiles/.bashrc
-. $HOME/dotfiles/.bash_aliases
+echo "Sourcing bash_profile..."
+. $HOME/.bashrc
+. $HOME/.bash_aliases
