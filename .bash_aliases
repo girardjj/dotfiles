@@ -1,2 +1,2 @@
-#!/bin/bash
+echo "aliases......."
 alias myls='ls -lart'
