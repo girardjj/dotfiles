@@ -1,3 +1,3 @@
 echo "bash_profile...."
-. .bashrc
-. .bash_aliases
+. $HOME/dotfiles/.bashrc
+. $HOME/dotfiles/.bash_aliases
