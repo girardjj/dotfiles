@@ -2,8 +2,8 @@ echo "Sourcing .bashrc..."
 if [ -f ~/.bashrc.loc ]; then
         . ~/.bashrc.loc
 fi
-if [ -f ~/.aliases ]; then
-        . ~/.aliases
+if [ -f ~/.bash_aliases ]; then
+        . ~/.bash_aliases
 fi
 
 
