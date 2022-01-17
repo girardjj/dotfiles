@@ -1,4 +1,5 @@
 #!/bin/bash
+set -a
 echo "Install...."
 if [ -e $HOME/dotfiles/.bash_profile ]; then
     echo "Sourcing $HOME/dotfiles/.bash_profile"
