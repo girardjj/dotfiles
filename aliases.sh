@@ -1,0 +1,1 @@
+alias myls="ls -lart"
